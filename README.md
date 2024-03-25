@@ -87,7 +87,7 @@ toppings = [
 4. Save the file after removing the topping.
 
 ### Testing Your Changes
-Testing is an essential aspect of software development to ensure that the Pizza Order System functions correctly and meets the desired requirements. Here's how you can conduct testing for the Pizza Order System:
+Testing is an essential aspect of software development to ensure that the Pizza Order System functions correctly and meets the desired requirements. Here's how you can conduct testing for the Pizza Order System in `test_system.py`:
 
 #### Automated Testing
 1. **Run Automated Tests**: Utilize the provided `runTest` function to run automated tests for different scenarios. This function executes the Pizza Order System with predefined input and compares the output against expected results.
